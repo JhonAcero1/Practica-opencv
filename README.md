@@ -32,6 +32,18 @@ al final ejecutar
 python scrip.py
 
 
+Actividades sugeridas:
+
+¿Qué objetos pueden reconocer? (personas, laptop, celular, silla, etc.) Captura pantalla y agrega tus evidencias.
+
+![Resultado detección](cellphone.png)
+Actividad:
+Haz que la cámara detecte una persona con un celular. ¿Aparecen los dos objetos al mismo tiempo?
+![Resultado detección](bottle.png)
+
+Mostrar solo objetos con más del 70% de confianza. Agrega evidencias
+
+si aparece mas del 70%
 
 
 
