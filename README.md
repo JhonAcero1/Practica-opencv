@@ -13,5 +13,17 @@ significa que OpenCV no pudo leer correctamente el archivo de configuración (.c
 
 3.- La solucion que aplique fue descargar los archivos de yolo4 
 yolov4.cfg: este archivo se descargaba como `.txt` desde el navegador, así que preguente si podia descargar  de otra forma y la solucion fue mediante curl
+![Resultado detección](curl.jpg)
+y el yolov4.weights si lo descargué directamente desde el navegador 
+
+4. Modifiqué el código scrip.py para asegurarme de que los archivos estuvieran bien cargados y
+después de esto el script funcionó perfectamente y detectó objetos en tiempo real y ahi paso las imagenes que detecto 
+![Resultado detección](bottle.jpg)
+![Resultado detección](cat.jpg)
+![Resultado detección](cellphone.jpg)
+
+5.- Ahora para subir a mi github 
+
+
 
 
