@@ -22,7 +22,15 @@ después de esto el script funcionó perfectamente y detectó objetos en tiempo 
 ![Resultado detección](cat.png)
 ![Resultado detección](cellphone.png)
 
-5.- Ahora para subir a mi github 
+5.- Ahora que funcione en otro equipo clona y ejecuta los siguientes comandos despues de clonar 
+
+python -m venv tf-env
+.\tf-env\Scripts\activate
+pip install -r requirements.txt
+
+al final ejecutar 
+python scrip.py
+
 
 
 
